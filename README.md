@@ -2,7 +2,7 @@
 
 Applicatipon running with camel integration and kafka to process the message. 
 The data is stored into MongoDB.
-Applicatipon is containerization using docker.
+Application is containerization using docker.
 
 How to run :
 1. common -> mvn clean install
